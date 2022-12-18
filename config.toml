@@ -1,0 +1,36 @@
+baseURL = "http://example.org/"
+title = "MergeConflict"
+theme = "hugo-coder"
+
+
+[params]
+  author = "Miguel Rivera-Lanas"
+  info = "Tech Public Policy Research, Thoughts and Reactions"
+  description = "desc"
+  keywords = "blog,developer,personal"
+  avatarURL = "images/avatar.jpg"
+
+
+[[menu.main]]
+  name = "Blog"
+  weight = 3
+  url  = "posts/"
+[[menu.main]]
+  name = "About"
+  weight = 3
+  url = "about/"
+[[menu.main]]
+  name = "What I'm Reading"
+  weight = 3
+  url = "reading/"
+[[menu.main]]
+  name = "Hugo FAQ (by me)"
+  weight = 3
+  url = "hugo-questions/"
+
+
+
+[taxonomies]
+  tag = "tags"
+
+
