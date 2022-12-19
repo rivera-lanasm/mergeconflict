@@ -11,7 +11,7 @@ draft: false
 
 1. Where to configure font size/style of navigation bar elements on title page
 2. How to know what image specifications the image element, avatar.jpg, expects on title page
-3. 
+
 
 
 
