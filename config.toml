@@ -1,14 +1,14 @@
 baseURL = "http://example.org/"
-title = "MergeConflict"
+title = "MRiveraLanas"
 theme = "hugo-coder"
 
 
 [params]
-  author = "Miguel Rivera-Lanas"
-  info = "Tech Public Policy Research, Thoughts and Reactions"
-  description = "desc"
+  author = "MergeConflict"
+  info = "Thoughts and investigations about the technologies changing our society and the institutions behind them. And other reflections"
+  description = ""
   keywords = "blog,developer,personal"
-  avatarURL = "images/avatar.jpg"
+  avatarURL = "images/gitmergeconflict_3.jpg"
 
 
 [[menu.main]]

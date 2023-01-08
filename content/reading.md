@@ -5,5 +5,19 @@ date: 2022-12-18T17:37:12-05:00
 draft: false
 ---
 
-what im reading
+### Public Policy and RegTech
+
+... 
+
+
+### Technology
+
+
+### History
+
+
+
+
+
+
 
