@@ -16,6 +16,10 @@ theme = "hugo-coder"
   weight = 3
   url  = "posts/"
 [[menu.main]]
+  name = "Projects"
+  weight = 3
+  url  = "projects/"
+[[menu.main]]
   name = "About"
   weight = 3
   url = "about/"
@@ -23,10 +27,10 @@ theme = "hugo-coder"
   name = "What I'm Reading"
   weight = 3
   url = "reading/"
-[[menu.main]]
-  name = "Hugo FAQ (by me)"
-  weight = 3
-  url = "hugo-questions/"
+#[[menu.main]]
+#  name = "Hugo Blurbs"
+#  weight = 3
+#  url = "hugo-questions/"
 
 
 

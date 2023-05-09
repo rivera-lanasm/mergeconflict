@@ -2,7 +2,7 @@
 title: "Site Notes and Wishlist"
 description: "Hugo site configuration questions I haven't gotten around to"
 date: 2022-12-18T17:50:44-05:00
-draft: false
+draft: true
 
 ---
 

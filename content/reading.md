@@ -1,6 +1,6 @@
 ---
 title: "Reading"
-description: "What I'm reading, what I hope to write about"
+description: "What I'm reading"
 date: 2022-12-18T17:37:12-05:00
 draft: false
 ---
@@ -10,10 +10,9 @@ draft: false
 ... 
 
 
-### Technology
+### Software Dev
 
-
-### History
+- Data Elixxr [newsletter]()
 
 
 

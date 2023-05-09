@@ -1,5 +1,5 @@
 +++ 
-draft = false
+draft = true
 date = 2022-12-28T17:11:45-05:00
 title = "Raspberri Pi 4: Getting Started"
 description = "Why I'm doing this, what I found"
