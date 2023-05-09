@@ -1,11 +1,11 @@
 +++ 
 draft = false
 date = 2023-01-01T19:05:04-05:00
-title = "SBCMeter: Single Board Computer System Monitor"
+title = "SBCMeter: Time series System Monitor for Linux"
 description = "Track system resource utlization for SBC's hosting sensitive applications"
 slug = ""
 authors = []
-tags = []
+tags = ["sbc"]
 categories = []
 externalLink = ""
 series = []

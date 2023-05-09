@@ -27,11 +27,10 @@ theme = "hugo-coder"
   name = "What I'm Reading"
   weight = 3
   url = "reading/"
-#[[menu.main]]
-#  name = "Hugo Blurbs"
-#  weight = 3
-#  url = "hugo-questions/"
-
+[[menu.main]]
+  name = "CV"
+  weight = 3
+  url = "cv/cv.pdf"
 
 
 [taxonomies]
