@@ -18,7 +18,5 @@ draft: false
 - [Hackernoon Techbeat](https://hackernoon.com/techbeat)
 
 
-### Books
-
 
 
