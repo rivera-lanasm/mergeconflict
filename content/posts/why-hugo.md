@@ -1,16 +1,17 @@
 +++ 
 draft = true
 date = 2022-12-18T16:48:56-05:00
-title = "Why Write with Hugo?"
-description = "The kind of content on this blog, and why Hugo is a good (or good enough) choice"
+title = "Neovim Setup Using Lua API"
+description = "..."
 slug = ""
 authors = []
-tags = ["guide", "hugo"]
+tags = ["guide", "neovim"]
 categories = []
 externalLink = ""
 series = []
 +++
 
-this is a post
+This post is an addenudum to a fantastic guided [tour](https://coen.needell.org/post/neovim_for_data_science_1/) to Vim by Coen Needel.
+
 
 
