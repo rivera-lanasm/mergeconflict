@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book Review on MRiveraLanas</title>
+    <link>http://localhost:1313/tags/book-review/</link>
+    <description>Recent content in Book Review on MRiveraLanas</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 10 Aug 2023 22:38:47 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/book-review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book Review: Your Computer is on Fire, Part 1</title>
+      <link>http://localhost:1313/posts/br_ycif_0/</link>
+      <pubDate>Thu, 10 Aug 2023 22:38:47 -0400</pubDate>
+      <guid>http://localhost:1313/posts/br_ycif_0/</guid>
+      <description>Stripping Ideology from Fact Link to heading Your Computer is on Fire wants to dismantle and replace how social scientists talk about computational systems, social media platforms, digital privacy, and other sociotechnical issues, as well as how we understand their research on these subjects. To allow civil society, government, and corporations to continue avoiding and ignoring social science research is, as Thomas Mullaney states, “simply too dangerous”. The editors of this sixteen-part collection of essays are Thomas Mullaney (Stanford), Mar Hicks (Illinois Institute of Technology), Kavita Philip (University of California, Irvine), and Benjamin Peters (University of Tulsa).</description>
+    </item>
+  </channel>
+</rss>

@@ -1,7 +1,7 @@
 +++ 
 draft = false
 date = 2023-08-10T22:38:47-04:00
-title = "Book Review: Your Computer is on Fire, Part 1"
+title = "Book Review: Your Computer is on Fire"
 subtitle = "Introduction: Stripping Ideology from Fact"
 description = ""
 slug = ""

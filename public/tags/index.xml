@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on MRiveraLanas</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on MRiveraLanas</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 10 Aug 2023 22:38:47 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book Review</title>
+      <link>http://localhost:1313/tags/book-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/book-review/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sbc</title>
+      <link>http://localhost:1313/tags/sbc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sbc/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

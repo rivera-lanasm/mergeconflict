@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on MRiveraLanas</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on MRiveraLanas</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 10 Aug 2023 22:38:47 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book Review: Your Computer is on Fire, Part 1</title>
+      <link>http://localhost:1313/posts/br_ycif_0/</link>
+      <pubDate>Thu, 10 Aug 2023 22:38:47 -0400</pubDate>
+      <guid>http://localhost:1313/posts/br_ycif_0/</guid>
+      <description>Stripping Ideology from Fact Link to heading Your Computer is on Fire wants to dismantle and replace how social scientists talk about computational systems, social media platforms, digital privacy, and other sociotechnical issues, as well as how we understand their research on these subjects. To allow civil society, government, and corporations to continue avoiding and ignoring social science research is, as Thomas Mullaney states, “simply too dangerous”. The editors of this sixteen-part collection of essays are Thomas Mullaney (Stanford), Mar Hicks (Illinois Institute of Technology), Kavita Philip (University of California, Irvine), and Benjamin Peters (University of Tulsa).</description>
+    </item>
+    <item>
+      <title>Hugo Blurb: Deploy App on AWS Amplify on Route53 Verified Domain</title>
+      <link>http://localhost:1313/posts/appdeploy/</link>
+      <pubDate>Sun, 18 Dec 2022 18:15:51 -0500</pubDate>
+      <guid>http://localhost:1313/posts/appdeploy/</guid>
+      <description> Deploy App on AWS Amplify Link to heading Hugo Docs&#xA;Specifying Hugo version Amplify uses upon deployment&#xA;When setting up my site on local, I was using the latest Hugo release (which snap gave me by default: v.0.108 According to this blog post, Amplify provides Hugo version 0.75.1 by default. The theme I am using, however, has min. requirement of 0.77 Specifying the version of Hugo AWS Amplify should use in the build script is simple, outlined in this post </description>
+    </item>
+  </channel>
+</rss>

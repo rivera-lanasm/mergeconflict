@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <title>
+  SBCMeter: Time series System Monitor for Linux · MRiveraLanas
+</title>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+
+
+<meta name="author" content="MergeConflict">
+<meta name="description" content="Track system resource utlization for SBC&#39;s hosting sensitive applications">
+<meta name="keywords" content="blog,developer,personal">
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="SBCMeter: Time series System Monitor for Linux">
+  <meta name="twitter:description" content="Track system resource utlization for SBC&#39;s hosting sensitive applications">
+
+<meta property="og:url" content="http://localhost:1313/projects/rbpi_3/">
+  <meta property="og:site_name" content="MRiveraLanas">
+  <meta property="og:title" content="SBCMeter: Time series System Monitor for Linux">
+  <meta property="og:description" content="Track system resource utlization for SBC&#39;s hosting sensitive applications">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="projects">
+    <meta property="article:published_time" content="2023-01-01T19:05:04-05:00">
+    <meta property="article:modified_time" content="2023-01-01T19:05:04-05:00">
+    <meta property="article:tag" content="Sbc">
+
+
+
+
+<link rel="canonical" href="http://localhost:1313/projects/rbpi_3/">
+
+
+<link rel="preload" href="/fonts/forkawesome-webfont.woff2?v=1.2.0" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="/css/coder.css" media="screen">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+<meta name="generator" content="Hugo 0.127.0">
+
+
+
+
+
+  </head>
+
+
+
+
+<body class="preload-transitions colorscheme-light">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="/">
+      MRiveraLanas
+    </a>
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/about/">About</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/posts/">Blog</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/cv/cv.pdf">CV</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/projects/">Projects</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/reading/">What I&#39;m Reading</a>
+            </li>
+          
+        
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+  <section class="container page">
+  <article>
+    <header>
+      <h1 class="title">
+        <a class="title-link" href="http://localhost:1313/projects/rbpi_3/">
+          SBCMeter: Time series System Monitor for Linux
+        </a>
+      </h1>
+    </header>
+
+    <h3 id="hosting-sensitive-applications-on-self-hosted-sbcs">
+  Hosting sensitive applications on self hosted SBC&rsquo;s
+  <a class="heading-link" href="#hosting-sensitive-applications-on-self-hosted-sbcs">
+    <i class="fa fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>Linux tools like <code>htop</code>, <code>du</code>, and <code>ps</code> monitor system and process status and resource utilization at a point in time. This project provides a convenient tool set and user interface for collecting and visualizing longitudinal data at the system and process level for measures such as CPU utilization, hardware temperature, as well as user defined metrics.</p>
+<p>The tool provides a CLI entry point written in <strong>bash</strong>, uses <strong>systemd</strong> to set up and configure data collecting services, and <strong>Flask/D3/JQuery</strong> for web dashboard visualizing metrics.</p>
+<p>Principles embedded in development (&ldquo;I&rdquo; the user):</p>
+<ul>
+<li>I am not a web developer and do not want to spend time mired in the shifting landscape of front end development, so will only use tried/tested/stable web development tools</li>
+<li>I would like to interact with the tool as much as possible through the CLI, and the CLI should be as helpful as possible. See <a href="https://clig.dev/">here</a></li>
+</ul>
+<p>For anyone hosting applications on SBC&rsquo;s, this tool can be used to:</p>
+<ul>
+<li>Measure and analyze a process&rsquo;s resource consumption patterns over time</li>
+<li>Anticipate and handle resource utilization limit breaches for processes sensitive to downtime</li>
+</ul>
+<p>You can see project Github repo <a href="">here</a> and project feature roadmap <a href="">here</a></p>
+
+  </article>
+</section>
+
+  
+
+    </div>
+
+    <footer class="footer">
+  <section class="container">
+    ©
+    
+    2024
+     MergeConflict 
+    ·
+    
+    Powered by <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>.
+    
+  </section>
+</footer>
+
+  </main>
+
+  
+
+  
+  
+  <script src="/js/coder.js"></script>
+  
+
+  
+
+  
+  
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</body>
+
+</html>
