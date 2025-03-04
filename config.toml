@@ -9,5 +9,16 @@ theme = "paper"
     github = 'rivera-lanasm'                 # github.com/YOUR_GITHUB_ID
     linkedin = 'mriveralanas'             # linkedin.com/in/YOUR_LINKEDIN_ID
 
-    bio = 'YOUR_BIO'
-    name='YOURNAME'
+    bio = ''
+    name = "Welcome to my blog!"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+[taxonomies]
+tag = "tags"

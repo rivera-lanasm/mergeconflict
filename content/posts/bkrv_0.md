@@ -2,6 +2,7 @@
 title: "Identity, by Francis Fukuyama"
 date: 2025-03-03T19:51:11-05:00
 draft: false
+tags: ["book review"]
 ---
 
 At first, this reads as a careful dissection and rebuke of modern identity politics, which Fukuyama characterizes as one of the "chief threats" to liberal democracies today—and in one sense, this is correct. As Fukuyama describes, identity politics are characterized by the existential tension between some set of deeply personal individual ethnic, cultural, or religious aspects against external realities. 
