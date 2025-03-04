@@ -1,0 +1,13 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Miguel Rivera-Lanas'
+theme = "paper"
+
+
+[params] 
+    # header social icons
+    github = 'rivera-lanasm'                 # github.com/YOUR_GITHUB_ID
+    linkedin = 'mriveralanas'             # linkedin.com/in/YOUR_LINKEDIN_ID
+
+    bio = 'YOUR_BIO'
+    name='YOURNAME'
